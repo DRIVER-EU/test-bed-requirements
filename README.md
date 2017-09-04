@@ -1,3 +1,7 @@
+---
+title: Testing the title
+---
+
 ## Welcome to GitHub Pages
 
 View the results on [https://driver-eu.github.io/test-bed-requirements/](https://driver-eu.github.io/test-bed-requirements/).
